@@ -1,0 +1,11 @@
+.links>a {
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a {
+  display: block;
+  text-align: center;
+}
